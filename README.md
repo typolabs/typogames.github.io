@@ -1,57 +1,49 @@
-<header>
+# Privacy Policy for Typo Games
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+**Effective Date:** March 28, 2025
 
-# GitHub Pages
+Typo Games respects your privacy and is committed to protecting your personal information. This privacy policy outlines how we collect, use, and protect your data when you use our app.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## Information We Collect
 
-</header>
+Typo Games only collects and stores the following types of data:
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+1. **CoreData Storage**  
+   - The app uses **CoreData** to store relevant game data (e.g., scores, configurations, past games, etc.). This information is stored locally on your device and is not shared with any external servers.
+   - The relevant game data is used only within the app to provide a better gaming experience. It is never shared with third parties.
 
-## Finish
+2. **Subscriptions**  
+   - Typo Games offers various subscription levels. When you subscribe, the app may collect information related to your subscription (e.g., purchase confirmation), which is handled securely through Apple's App Store. This data is only used to manage your subscription and billing.
+   - We do not store any personal or payment information within the app. Payment information is securely handled by Apple.
 
-_Congratulations friend, you've completed this course!_
+## Data Sharing and Third Parties
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+- **No Data Sharing**  
+   Typo Games does not share any of your personal data or relevant game data with third parties. All data remains stored locally on your device, and we do not access or transmit any data beyond what is necessary to run the app.
 
-Your blog is now live and has been deployed!
+- **Third-Party Services**  
+   Typo Games does not integrate with any third-party services that would collect personal data. The only third-party service involved is Apple's App Store, which manages subscription billing and payment processing.
 
-Here's a recap of all the tasks you've accomplished in your repository:
+## User Rights
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+- **Access to Data**  
+   You can access your relevant game data at any time within the app. If you wish to delete your game data, you can do so by resetting the app’s data through the settings menu.
 
-### What's next?
+- **Account Creation**  
+   Typo Games does not require users to create an account or provide any personal identifying information in order to use the app. All data collected is tied to the app’s local storage on your device.
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+## Security
 
-<footer>
+We take the security of your data seriously. Your relevant game data and subscription information are stored securely within your device using CoreData and do not leave your device unless you choose to share them with others (for example, through screenshots or sharing game progress manually).
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## Changes to This Privacy Policy
 
----
+We may update this privacy policy from time to time to reflect changes in how we collect or use your data. We will post any changes to this policy within the app, and they will be effective as of the date posted.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## Contact Us
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+If you have any questions or concerns about this privacy policy, please contact us at:
 
-</footer>
+**Email:** support@typolabs.io
+
+Thank you for playing Typo Games!
